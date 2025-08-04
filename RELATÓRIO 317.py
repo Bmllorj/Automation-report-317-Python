@@ -3,7 +3,6 @@ from tkinter import filedialog, messagebox
 import pandas as pd
 import numpy as np
 
-
 class PlanilhaApp:
     def __init__(self, root):
         self.root = root
